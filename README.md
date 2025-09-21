@@ -61,7 +61,7 @@ A Flutter application that implements a pixel-perfect onboarding screen with lan
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Lovelyn-Flutter/onboarding_screen.git
    cd onboarding_app
    ```
 
